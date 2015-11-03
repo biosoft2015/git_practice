@@ -10,6 +10,7 @@ int main() {
 	//Add Your Name Here
 	members.push_back("Zachary Gittelman");
 	members.push_back("Ali Turfah");
+	members.push_back("Hy Doan");
 
 
 	//Print All Members
