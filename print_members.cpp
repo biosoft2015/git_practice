@@ -12,6 +12,7 @@ int main() {
 	members.push_back("Ali Turfah");
 	members.push_back("Hy Doan");
 	members.push_back("Albert Lo");
+	members.push_back("Santiago Schnell");
 
 
 	//Print All Members
