@@ -12,7 +12,7 @@ int main() {
 	members.push_back("Ali Turfah");
 	members.push_back("Hy Doan");
 	members.push_back("Albert Lo");
-
+	members.push_back(“Josh Abramson”);
 
 	//Print All Members
 	for (int i = 0; i < members.size(); ++i)
