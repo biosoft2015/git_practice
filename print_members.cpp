@@ -13,7 +13,7 @@ int main() {
 	members.push_back("Hy Doan");
 	members.push_back("Albert Lo");
 <<<<<<< HEAD
-	members.push_back(ÒJosh AbramsonÓ);
+	members.push_back("Josh Abramson");
 =======
 	members.push_back("Santiago Schnell");
 
