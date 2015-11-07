@@ -18,7 +18,6 @@ int main() {
 	members.push_back("Adam Trosin");
 	members.push_back("Tommy Oliver");
 
-
 	//Print All Members
 	for (int i = 0; i < members.size(); ++i)
 	{	
