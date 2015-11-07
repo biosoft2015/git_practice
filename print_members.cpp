@@ -15,7 +15,8 @@ int main() {
 	members.push_back("Albert Lo");
 	members.push_back("Josh Abramson");
 	members.push_back("Santiago Schnell");
-    members.push_back("Adam Trosin");
+	members.push_back("Adam Trosin");
+	members.push_back("Tommy Oliver");
 
 
 	//Print All Members
