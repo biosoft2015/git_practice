@@ -17,7 +17,8 @@ int main() {
 	members.push_back("Santiago Schnell");
 	members.push_back("Adam Trosin");
 	members.push_back("Tommy Oliver");
-
+	members.push_back("Drew Manson");
+	
 	//Print All Members
 	for (int i = 0; i < members.size(); ++i)
 	{	
